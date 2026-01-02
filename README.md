@@ -28,6 +28,7 @@ After downloading and unzipping the above file, you may access the learned vecto
 
 ## Bibtex: 
 
+```
 @inproceedings{malaviya17emnlp,
     title = {Learning Language Representations for Typology Prediction},
     author = {Chaitanya Malaviya and Graham Neubig and Patrick Littell},
@@ -36,3 +37,4 @@ After downloading and unzipping the above file, you may access the learned vecto
     month = {September},
     year = {2017}
 }
+```
